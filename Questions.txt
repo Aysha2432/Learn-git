@@ -1,0 +1,34 @@
+1. What is git?
+	Version control system
+2. What is github?
+	host for version control system
+3. What is version control system?
+4. What are the commands in git?
+	init
+	commit
+	push
+	add
+	switch
+5. What is the difference between git and github?
+	git is version control system and git hub is host 	for version control system also used for 	collabrations
+6. How to initialize a repository?
+	git init
+7. How to set username and email?
+	git config --globaly user.email "email"
+	git config --globally user.name "username"
+8. What is staged changes and how to stage files?
+	
+	git add .
+	git add <file_name_1> <file_name_2>
+9. How to commit files?
+	git commit -m "message"
+10. How to add remote repo?
+	git remote add <remote_name> <remote_url>
+11. How to list remotes?
+	git remote
+12. What is remote url?
+	git config --get remote.<remote_name>.url
+13. How to push files?
+	git push <remote_name> <branch_name>
+14. Create a file named "sample.txt" with "Hello" in it and commit it.
+15. Create a file named data.txt, hey.txt and hello.txt. Add data.txt and hello.txt to stage. Commit it.
