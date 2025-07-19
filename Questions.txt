@@ -28,7 +28,7 @@
 11. How to list remotes?
 	git remote
 12. What is remote url?
-	git config --get remote.<remote_name>.url
+	A remote URL in Git is the web address of a remote repository where your code is stored online(eg:github)
 13. How to push files?
 	git push <remote_name> <branch_name>
 14. Create a file named "sample.txt" with "Hello" in it and commit it.
