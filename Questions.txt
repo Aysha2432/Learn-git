@@ -18,7 +18,7 @@
 	git config --globaly user.email "email"
 	git config --globally user.name "username"
 8. What is staged changes and how to stage files?
-	
+	staged chnages are files that have been marked to be included in the next commit.
 	git add .
 	git add <file_name_1> <file_name_2>
 9. How to commit files?
