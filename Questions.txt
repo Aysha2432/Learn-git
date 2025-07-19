@@ -11,7 +11,7 @@
 	add
 	switch
 5. What is the difference between git and github?
-	git is version control system and git hub is host for version control , also used for collabrations
+	git is tool for version control system and git hub is host for version control , also used for collabrations
 6. How to initialize a repository?
 	git init
 7. How to set username and email?
